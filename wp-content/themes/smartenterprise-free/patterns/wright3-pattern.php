@@ -1,0 +1,24 @@
+<?php
+/**
+ * Title: 常用文章写作模块2
+ * Slug: smartenterprise/wright2
+ * Categories: wright
+ * Block Types: core/template-part
+ * Viewport Width: 1400
+ */
+?>
+<!-- wp:themepark-block/themepark-wright {"font":16,"font2":28,"font3":2,"font4":"#666666","font5":"#fffaf0","font7":"#f29900","font8":1} -->
+<div class="wp-block-themepark-block-themepark-wright content-super-p" style="font-size:16px;line-height:28px;text-indent:2em;color:#666666;background-color:#fffaf0; border:1px #f29900 solid;padding:10px 10px;"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"style":{"typography":{"fontSize":18}}} -->
+<h2 style="font-size:18px">WordPress简介和历史以及近年来的发展</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>WordPress是使用PHP语言开发的博客平台，用户可以在支持PHP和MySQL数据库的服务器上架设属于自己的网站。也可以把 WordPress当作一个内容管理系统（CMS）来使用。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>WordPress是一款个人博客系统，并逐步演化成一款内容管理系统软件，WordPress目前在全世界网站的占有率已经超过40%，是目前全球最流行的开源网页项目之一。</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:themepark-block/themepark-wright -->

@@ -1,0 +1,25 @@
+
+---下载的文件---
+导入文件：互联网/软件/服务已成功下载！
+初始最大执行时间= 300
+文件信息：
+网站网址 = https://imeta.space
+数据文件 = /www/wwwroot/imeta.space/wp-content/uploads/2025/12/demo-content-import-file_2025-12-04__06-30-42.xml
+小工具文件 = /www/wwwroot/imeta.space/wp-content/uploads/2025/12/demo-widgets-import-file_2025-12-04__06-30-42.json
+自定义文件 = /www/wwwroot/imeta.space/wp-content/uploads/2025/12/demo-customizer-import-file_2025-12-04__06-30-42.dat
+Redux文件：
+未定义!
+
+---正在导入小工具---
+默认侧边栏 : 
+
+折叠菜单模块 - 快速导航 - 导入完成
+多模式文章调用 - 成功案例赏析 - 导入完成
+
+
+
+---导入自定义设置---
+自定义设置导入完成！
+
+---ocdi/after_import---
+

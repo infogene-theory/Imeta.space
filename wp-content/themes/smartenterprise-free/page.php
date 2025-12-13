@@ -1,0 +1,5 @@
+<?php get_header();
+
+page_block_content($id=get_the_ID()); 
+
+get_footer(); ?>

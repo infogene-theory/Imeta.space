@@ -1,0 +1,16 @@
+<?php
+/**
+ * Title: 常用文章写作模块2
+ * Slug: smartenterprise/wright2
+ * Categories: wright
+ * Block Types: core/template-part
+ * Viewport Width: 1400
+ */
+?>
+<!-- wp:themepark-block/themepark-wright {"font":16,"font2":29,"font3":2,"font4":"#666666","font9":0,"font0":0} -->
+<div class="wp-block-themepark-block-themepark-wright content-super-p" style="font-size:16px;line-height:29px;text-indent:2em;color:#666666;"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>使用WordPress平台的发行商约占全球网站的10%。而WordPress官方网站的每月独立访问用户数则达到3亿。<br>从3.0开始，WordPress已经内置多用户博客的功能，可以通过简单的设置就开设一个支持多域名的博客平台。WordPress 是世界上使用最广泛的博客系统之一，是一款开源的PHP软件。因为使用者众多，所以WordPress社区非常活跃，有丰富的插件模板资源。使用WordPress可以快速搭建独立的博客网站。<br>WordPress 不仅仅是一个博客程序，也是一款CMS，很多非博客网站也是用WordPress搭建的。</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:themepark-block/themepark-wright -->
